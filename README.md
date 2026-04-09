@@ -1,7 +1,7 @@
 # Hi there, I'm Sakib Hossain 👋
 
 ### 🎓 Student & Aspiring Developer
-I am currently a student at **DAULATABAD NISITH BARANI SINHA HIGH SCHOOL**, focused on building my skills in [List 1-2 topics, e.g., Game Development and Web Design].
+I am currently a student at **DAULATABAD NISITH BARANI SINHA HIGH SCHOOL**, focused on building my skills in Game Development and Python app designing.
 
 - 🔭 I’m currently working on my first repository and learning the basics of GitHub.
 - 🌱 I’m currently learning GDScript,Python,Micropython.
